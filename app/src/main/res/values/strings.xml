@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Baker</string>
+    <string name="err_no_internet">Could not retrieve data from internet. Please check your internet connection and try again</string>
+    <string name="recipe_image">Recipe image</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="video_player">Video Player</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="no_video_data">No Video Found</string>
+    <string name="exo_previous">Play from beginning</string>
+    <string name="exo_rewind">Rewind</string>
+    <string name="play_video">Play Video</string>
+    <string name="pause_video">Pause Video</string>
+    <string name="fast_forward">Fast Forward</string>
+</resources>

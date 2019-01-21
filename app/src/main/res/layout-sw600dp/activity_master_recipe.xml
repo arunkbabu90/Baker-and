@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/activity_sw600_master_recipe"
+    android:orientation="horizontal">
+
+    <FrameLayout
+        android:id="@+id/fragment_master_options_container"
+        android:layout_height="match_parent"
+        android:layout_width="@dimen/master_frag_width"/>
+
+    <FrameLayout
+        android:id="@+id/fragment_detail_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+</LinearLayout>
